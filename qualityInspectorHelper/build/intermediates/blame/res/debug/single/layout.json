@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\pager_files.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\pager_files.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\notification_view.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\notification_view.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\contact_item.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\contact_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creat_new_customer.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\activity_creat_new_customer.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\parent_list_item.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\parent_list_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\pager_yourself.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\pager_yourself.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\pager_organization.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\pager_organization.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_menu.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\pager_prosess.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\pager_prosess.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inspect_standard_files.xml",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\layout\\activity_inspect_standard_files.xml"
+    }
+]

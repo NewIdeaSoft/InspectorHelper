@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/files"
+        android:gravity="center_vertical" >
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+			<TextView 
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:textSize="20sp"
+			    android:text="产品:"/>
+			<TextView
+			    android:id="@+id/selectedProduct" 
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:text="产品"
+			    android:textSize="20sp"
+			    android:layout_marginLeft="10dp"/>
+			
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp" >
+			<TextView 
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:textSize="20sp"
+			    android:text="岗位:"/>
+			<TextView
+			    android:id="@+id/selectedStation" 
+			    android:layout_height="wrap_content"
+			    android:layout_width="match_parent"
+			    android:textSize="20sp"
+			    android:text="岗位"
+			    android:layout_marginLeft="10dp"/>
+			
+        </TableRow>
+    </TableLayout>
+
+    <ExpandableListView
+        android:id="@+id/sourceFilesList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp" >
+    </ExpandableListView>
+
+</LinearLayout>

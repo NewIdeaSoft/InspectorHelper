@@ -1,0 +1,203 @@
+[
+    {
+        "outputFile": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 43,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 41,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 52,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 36,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 39,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 44,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 37,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 50,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 86,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 86,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 60,
+                    "endOffset": 749
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 754,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

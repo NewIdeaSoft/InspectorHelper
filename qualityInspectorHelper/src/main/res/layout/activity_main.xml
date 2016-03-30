@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/choice_bk1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="选择岗位信息"
+        android:textSize="20sp" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="1" >
+
+        <TableRow
+            android:layout_margin="10dp">
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:text="姓名"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/name"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow
+            android:layout_margin="10dp">
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:text="产品"
+                android:textSize="15sp" />
+            <!-- 产品为选择输入框，不能自行输入 -->
+
+            <Spinner
+                android:id="@+id/product"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow
+            android:layout_margin="10dp">
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:text="岗位"
+                android:textSize="15sp" />
+            <!-- 岗位为选择输入框，不能自行输入 -->
+
+            <Spinner
+                android:id="@+id/station"
+                android:layout_height="wrap_content" />
+        </TableRow>
+    </TableLayout>
+
+    <!-- 点击按钮，如果姓名变化，向服务器传输用户姓名信息，如果姓名变化更新数据库姓名记录 -->
+    <!-- 向服务器发送请求，上传产品，岗位信息，服务器返回对应的资源列表 -->
+
+    <Button
+        android:id="@+id/checked"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#02c874"
+        android:text="确认"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\choice_bk1.png",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\drawable-hdpi\\choice_bk1.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login.png",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\files.png",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\drawable-hdpi\\files.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\standard.png",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\drawable-hdpi\\standard.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\safe2.png",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\drawable-hdpi\\safe2.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "C:\\AndroidStudioProjects\\MyApplication\\qualityInspectorHelper\\src\\main\\res\\drawable-hdpi\\logo.png"
+    }
+]
